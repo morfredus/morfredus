@@ -15,17 +15,17 @@ Quand je rencontre un problème et que je ne trouve pas de solution adaptée, je
 
 ## Projets
 
-### Gateway Lab
+### ComponentHub
 
-Inventaire réseau autonome sur ESP32-S3 avec découverte d'équipements, historique et classification.
+ESP32-powered electronic component inventory with a modern web interface.
 
-### Counterman
+### SiteWatch
 
-Compteur de passages basé sur ESP32 développé pour répondre à un besoin réel de comptage en magasin.
+Modern Apache/LiteSpeed log analyzer with SFTP synchronization, security insights and WordPress activity detection.
 
-### Morfredus.fr
+### GatewayLab
 
-Blog personnel où je partage mes expériences autour de la photographie, du développement et des projets techniques.
+ESP32-S3 network inventory and discovery appliance with persistent device tracking and classification.
 
 ## Philosophie
 
