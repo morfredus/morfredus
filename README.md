@@ -15,15 +15,15 @@ Quand je rencontre un problème et que je ne trouve pas de solution adaptée, je
 
 ## Projets
 
-### ComponentHub
+### [ComponentHub](https://github.com/morfredus/ComponentHub)
 
 ESP32-powered electronic component inventory with a modern web interface.
 
-### SiteWatch
+### [SiteWatch](https://github.com/morfredus/SiteWatch)
 
 Modern Apache/LiteSpeed log analyzer with SFTP synchronization, security insights and WordPress activity detection.
 
-### GatewayLab
+### [GatewayLab](https://github.com/morfredus/Gateway_Lab)
 
 ESP32-S3 network inventory and discovery appliance with persistent device tracking and classification.
 
