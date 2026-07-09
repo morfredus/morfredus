@@ -1,17 +1,20 @@
 # Salut, moi c'est Fred
 
-Photographe, développeur et créateur d'outils open source.
+Photographe, développeur C++/Python et créateur d'outils open source.
 
 Quand je rencontre un problème et que je ne trouve pas de solution adaptée, je construis la mienne.
+
+Je développe principalement en **C++** et **Python**, autour des **ESP32**, des applications desktop, des interfaces web embarquées et de l'automatisation.
 
 ## Ce qui m'intéresse
 
 - Photographie numérique et argentique
+- C++ et Python
 - ESP32 et systèmes embarqués
-- Réseaux et outils d'administration.
+- Réseaux et administration système
 - WordPress et développement web
-- PowerShell et automatisation
-- Projets personnels documentés sur le long terme
+- Automatisation et outils personnels
+- Projets open source documentés sur le long terme
 
 ## Projets
 
