@@ -18,6 +18,10 @@ Je développe principalement en **C++** et **Python**, autour des **ESP32**, des
 
 ## Projets
 
+### [Ant Renamer QT](https://github.com/morfredus/ant-renamer-qt)
+
+C++/Qt 6 port of Ant Renamer 2.13: batch file renaming (replace, enumerate, case, regex, EXIF, MP3 tags) for Windows and Linux. Unofficial, developed in parallel with the original by Antoine Potten.
+
 ### [ComponentHub](https://github.com/morfredus/ComponentHub)
 
 ESP32-powered electronic component inventory with a modern web interface.
@@ -25,10 +29,6 @@ ESP32-powered electronic component inventory with a modern web interface.
 ### [SiteWatch](https://github.com/morfredus/SiteWatch)
 
 Modern Apache/LiteSpeed log analyzer with SFTP synchronization, security insights and WordPress activity detection.
-
-### [GatewayLab](https://github.com/morfredus/Gateway_Lab)
-
-ESP32-S3 network inventory and discovery appliance with persistent device tracking and classification.
 
 ## Philosophie
 
