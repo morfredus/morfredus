@@ -18,9 +18,9 @@ Je développe principalement en **C++** et **Python**, autour des **ESP32**, des
 
 ## Projets
 
-### [Ant Renamer QT](https://github.com/morfredus/ant-renamer-qt)
+### [Ant Renamer Qt](https://github.com/morfredus/ant-renamer-qt)
 
-C++/Qt 6 port of Ant Renamer 2.13: batch file renaming (replace, enumerate, case, regex, EXIF, MP3 tags) for Windows and Linux. Unofficial, developed in parallel with the original by Antoine Potten.
+C++/Qt 6 port of Ant Renamer 2.13: batch file renaming (replace, enumerate, case, regex, EXIF, MP3 tags) for Windows and Linux. Official Qt port, developed in collaboration with Antoine Potten.
 
 ### [ComponentHub](https://github.com/morfredus/ComponentHub)
 
