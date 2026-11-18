@@ -1,39 +1,31 @@
-# Salut, moi c'est Fred
+# Hi, I'm Fred
 
-Photographe, développeur C++/Python et créateur d'outils open source.
+*Read in another language: **English** (this document) · [Français](README_fr.md).*
 
-Quand je rencontre un problème et que je ne trouve pas de solution adaptée, je construis la mienne.
+Photographer, self-taught developer and curious by nature.
 
-Je développe principalement en **C++** et **Python**, autour des **ESP32**, des applications desktop, des interfaces web embarquées et de l'automatisation.
+I like understanding how things work. When I run into a problem and can't find a tool that suits me, I tend to try building one myself. That's often how my projects begin.
 
-## Ce qui m'intéresse
+I mainly work in C++ with Qt and in Python. I build desktop applications, services, network tools and projects around ESP32 boards. I spend as much time on Windows as on Linux, with a particular interest in solutions that stay autonomous and run locally.
 
-- Photographie numérique et argentique
-- C++ et Python
-- ESP32 et systèmes embarqués
-- Réseaux et administration système
-- WordPress et développement web
-- Automatisation et outils personnels
-- Projets open source documentés sur le long terme
+## What I build
 
-## Projets
+I develop **[morfSystem](https://github.com/morfredus/morfSystem)**, a set of services and applications that answer my everyday needs. Each piece has its own role and can work on its own. When they are all on my network, they can also work together.
 
-### [Ant Renamer Qt](https://github.com/morfredus/ant-renamer-qt)
+It includes **morfPhoto**, which indexes my photo library and exposes it through an API, **PhotoHub**, its desktop interface, and **morfMonitor**, which lets me keep an eye on my machines and services. Other projects deal with synchronization, networking, sensors or deployment.
 
-C++/Qt 6 port of Ant Renamer 2.13: batch file renaming (replace, enumerate, case, regex, EXIF, MP3 tags) for Windows and Linux. Official Qt port, developed in collaboration with Antoine Potten.
+One project holds a special place: **[Ant Renamer Qt](https://github.com/morfredus/ant-renamer-qt)**. It started when I simply wanted to keep using, on Windows 11, a renaming tool I had relied on for a long time, but whose accented characters displayed badly since I had enabled the beta UTF-8 support in Windows 11. Its original development environment did not handle that change properly. I ended up porting it to C++20 and Qt 6. The port is done with the agreement of Antoine Potten, the author of the original software, on two conditions that I respect: a support channel completely independent from his, and a name, Ant Renamer Qt, that he approved. The software is distributed under the GPL-2.0-or-later license, like the original project. It runs on Windows, Linux and Raspberry Pi, with documentation in French and English.
 
-### [ComponentHub](https://github.com/morfredus/ComponentHub)
+I also build more focused tools, like **[ComponentHub](https://github.com/morfredus/ComponentHub)** to manage my inventory of electronic components, or **[SiteWatch](https://github.com/morfredus/SiteWatch)** to analyze my web server logs and follow the activity of GitHub repositories.
 
-ESP32-powered electronic component inventory with a modern web interface.
+## How I work
 
-### [SiteWatch](https://github.com/morfredus/SiteWatch)
+I don't usually start from a product idea. I start from a need, sometimes a very personal one, and try to find a solution that feels coherent to me. I use it, fix it, let it evolve. And when it can be useful to others, I share it as open source.
 
-Modern Apache/LiteSpeed log analyzer with SFTP synchronization, security insights and WordPress activity detection.
+I'm self-taught. I learn by doing, by reading other people's code, by experimenting and, sometimes, by getting things wrong. I don't claim to master everything, but I care about understanding what I build.
 
-## Philosophie
+What matters to me is making what I build last. So I put a lot of weight on documentation, on tools that stay autonomous, and on maintaining them over time. I like the idea of coming back to a project years later, understanding how it works and keeping it alive.
 
-J'aime comprendre comment les choses fonctionnent.
+And when I'm not in front of a screen, chances are I'm behind a camera, tinkering with electronics or building a model.
 
-J'apprécie autant le chemin parcouru que le résultat final.
-
-La plupart de mes projets naissent d'un besoin concret, évoluent au fil des usages et sont développés comme des outils que j'utilise au quotidien avant de les partager.
+[My personal notebook (in French)](https://morfredus.fr) · [All my GitHub repositories](https://github.com/morfredus?tab=repositories)
